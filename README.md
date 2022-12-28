@@ -11,7 +11,7 @@ GPT-2 is a transformers model pretrained on a very large corpus of English data 
 Inputs are sequences of continuous text of a certain length and the targets are the same sequence, shifted one token (word or piece of word) to the right. The model uses internally a mask-mechanism to make sure the predictions for the token i only uses the inputs from 1 to i but not the future tokens.
 
 ### Summary
-Submitted by : Raghavesh Mishra
+Submitted by : Raghavesh Mishra.
 Role: Have researched about different models which are used for text generation and understood the working of HuggingFace Transformer model. Also learnt the basics of NLP and GPT-2 models
 Further growth: To learn how to implement fine-tuning in the given model and make it more suited to our demands
 
