@@ -2,8 +2,7 @@
 I have presented a text generator application which takes prompt from the user and generates related text in the output.
 It utilizes TFGPT2LMHeadModel, GPT2Tokenizer models which are a part of GPT-2 model developed by openAI.
 
-This model has been trained on 2.7B parameters and is not fine tuned yet due to which it doesn't give exact caption sentences. It only provides a description related to the prompt and generates coherent text. It is a very rough idea and requires a lot of training dataset of insta captions to generate good quality captions.
-
+This model has been trained on 2.7 Billion random parameters and is not fine tuned yet. It provides a description related to the prompt and generates coherent text. It needs large training datasets of instagram captions to develop further parameters and tune it for better results.
 ## The link to YT video for demonstration
 https://youtu.be/dHD1lS9kiGg
 
