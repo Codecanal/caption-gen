@@ -12,5 +12,5 @@ Inputs are sequences of continuous text of a certain length and the targets are 
 ### Summary
 Role: Have researched about different models which are used for text generation and understood the working of HuggingFace Transformer model. Also learnt the basics of NLP and GPT-2 models
 Further growth: To learn how to implement fine-tuning in the given model and make it more suited to our demands.
-Submitted by : Raghavesh Mishra.
+
 
